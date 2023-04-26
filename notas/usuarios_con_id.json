@@ -1,0 +1,16 @@
+[
+    {
+        "id": 1,
+        "nombre": "Ivan",
+        "apellidos": "osuna",
+        "edad": 44,
+        "email": "ivan.osuna.ayuste@gmail.com"
+    },
+    {
+        "id": 2,
+        "nombre": "Alejandro",
+        "apellidos": "Sanchez",
+        "edad": 24,
+        "email": "alejandro@sanchez.com"
+    }
+]
