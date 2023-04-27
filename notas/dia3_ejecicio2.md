@@ -24,7 +24,7 @@ Debe devolver el resultado
 
 
 EXPONER UNOS ENDPOINTS
-GET             /usuarios
+GET             /usuarios/
                 Consultar el postgre y devlver los datos en JSON
                 
                 
@@ -40,3 +40,4 @@ GET             /usuarios/{id}
 
 POST            /usuarios/
                 Dar de alta un usuario y devolver sus datos (ID incluido)
+    El programa que hace la petición (request) envía un JSON con los datos (payload)
